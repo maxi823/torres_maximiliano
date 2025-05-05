@@ -1,3 +1,2 @@
 //datos muchisimos datos json
 //titulo: "Maxi"
-//descripcion: "Maxi es un personaje ficticio que representa la esencia de la diversión y la aventura. Con su personalidad carismática y su amor por la exploración, 
